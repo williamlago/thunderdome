@@ -1,0 +1,10 @@
+System.out.println appends what character to its text?
+What prefix should be given to a variable that will never change?
+What prefix is added to a method declaration to prevent new instances of that method from being created?
+What is the most common library for reading user input?
+What is thrown when Java encounters a runtime error?
+What is the name given to a variable declared outside of a method?
+What statement must every non-void method include?
+C++ is a procedural language, while Java is a(n) _____ language.
+What occurs when a loop is unable to properly terminate?
+What type of statement is added at the beginning of a Java file to load required libraries?
