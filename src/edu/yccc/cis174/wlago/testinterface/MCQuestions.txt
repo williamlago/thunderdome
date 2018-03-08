@@ -1,0 +1,25 @@
+Spiders have how many legs?
+A: 6
+B: 4
+C: 8
+D: 12
+Java is a slang term for:
+A: Coffee
+B: Hot cocoa
+C: Beer
+D: Red Bull
+Angles under 90 degrees are known as:
+A: Perfect angles
+B: Acute angles
+C: Obtuse angles
+D: Convex angles
+An extensible framework utilizing abstract methods is a(n):
+A: Static class
+B: Method header
+C: Abstract class
+D: Interface
+A water molecule is made up of:
+A: One hydrogen atom and two oxygen atoms
+B: Two hydrogen atoms and one oxygen atom
+C: One hydrogen atom, one oxygen atom, and one nitrogen atom
+D: Two hydrogen atoms and one nitrogen atom
