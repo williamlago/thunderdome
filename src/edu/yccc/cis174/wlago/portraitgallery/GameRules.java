@@ -1,4 +1,4 @@
-package edu.yccc.cis174.wlago.PortraitGallery;
+package edu.yccc.cis174.wlago.portraitgallery;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

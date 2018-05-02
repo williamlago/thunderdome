@@ -1,4 +1,4 @@
-package edu.yccc.cis174.wlago.PortraitGallery;
+package edu.yccc.cis174.wlago.portraitgallery;
 
 public class GamePrehistoric extends GameRules {
 		
