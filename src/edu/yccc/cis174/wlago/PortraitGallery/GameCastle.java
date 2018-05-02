@@ -1,4 +1,4 @@
-package edu.yccc.cis174.wlago.IFception;
+package edu.yccc.cis174.wlago.PortraitGallery;
 
 public class GameCastle extends GameRules {
 	
